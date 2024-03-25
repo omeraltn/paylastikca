@@ -12,8 +12,7 @@
 - Fontawesome
 
 # Ekran Görüntüleri
-![](images/screen.png)
+![](img/screen.png)
 
 # Gif
-![](images/screen.gif)
-
+![](img/screen.gif)
